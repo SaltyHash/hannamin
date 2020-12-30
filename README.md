@@ -1,4 +1,4 @@
-# hannamin
+# Hannamin
 A digital [theremin](https://en.wikipedia.org/wiki/Theremin) for my wife, Hannah.
 
 ## Hardware
